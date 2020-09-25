@@ -1,1 +1,2 @@
-1
+＃！/usr/env bin
+echo "您好！"
